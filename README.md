@@ -1,4 +1,4 @@
-# Creative Developer Portfolio
+# Creative  Portfolio
 
 A responsive React portfolio built with Vite. It features a creative dark theme, animated typing effect, project cards, skills, certification placeholders, resume link, and a contact form that opens the visitor's default email app.
 
